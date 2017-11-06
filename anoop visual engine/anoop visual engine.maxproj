@@ -2,7 +2,7 @@
 	"name" : "anoop visual engine",
 	"version" : 1,
 	"creationdate" : 3592251040,
-	"modificationdate" : 3592414954,
+	"modificationdate" : 3592848004,
 	"viewrect" : [ 29.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -12,8 +12,7 @@
 		"patchers" : 		{
 			"visual render.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 ,
 			"render2.maxpat" : 			{
